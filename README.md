@@ -55,4 +55,4 @@ The dashboard shows that **WhatsApp consumed the most battery**, which suggests 
 
 ## Conclusion
 
-The smartphone battery usage dashboard is a strong example of **data visualization applied in everyday life**. By transforming complex system data into clear graphs and percentage comparisons, it allows users to quickly understand battery consumption patterns and manage their device more efficiently. This example demonstrates how data visualization simplifies technical information and helps users make better decisions about their daily digital habits.
+The smartphone battery usage dashboard demonstrates how data visualization is integrated into everyday technology. By presenting battery consumption through graphs and app-wise percentages, it simplifies complex system data and allows users to quickly understand how their device resources are being used. The visualization highlights which applications consume the most battery and reveals usage patterns throughout the day. Overall, this example shows how effective visual representations can support better decision-making, help users manage battery life more efficiently, and promote awareness of digital usage habits.
