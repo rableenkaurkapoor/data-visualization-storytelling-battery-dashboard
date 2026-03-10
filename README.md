@@ -40,19 +40,23 @@ The smartphone battery usage visualization helps solve several practical problem
 
 ---
 
-## Key Insights from the Battery Dashboard
+## Key Insights from the Dashboard
 
-- **Highest battery consumption:** WhatsApp (**31.69%**)
-- **Second highest battery consumption:** YouTube (**23.59%**)
-- **Moderate battery consumption:** Gmail (**10.05%**)
-- **Lower battery consumption:** Instagram (**5.77%**)
-- **Least battery consumption among the visible apps:** Instagram (**5.77%**)
+- **Highest battery consumption:** WhatsApp – 31.69%
+- **Second highest usage:** YouTube – 23.59%
+- **Moderate usage:** Gmail – 10.05%
+- **Lower usage:** Instagram – 5.77%
+- **Minimal usage:** System Launcher – 1.26%
+- **Least battery consumption:** System UI – 1.01%
 
-## Insight
-The dashboard shows that **WhatsApp consumed the most battery**, which suggests frequent usage or background activity. In contrast, **Instagram consumed the least battery among the listed major apps**, indicating relatively lower usage compared to the others shown in the screenshot.
+### Insight
+The visualization shows that **WhatsApp consumes the highest percentage of battery**, indicating frequent usage or background activity such as messaging, calls, and notifications. **YouTube** also contributes significantly to battery drain due to continuous video streaming. In contrast, **System UI consumes the least battery**, as it primarily supports basic interface functions rather than intensive user interaction.
+
 ---
 
 
 ## Conclusion
 
-The smartphone battery usage dashboard demonstrates how data visualization is integrated into everyday technology. By presenting battery consumption through graphs and app-wise percentages, it simplifies complex system data and allows users to quickly understand how their device resources are being used. The visualization highlights which applications consume the most battery and reveals usage patterns throughout the day. Overall, this example shows how effective visual representations can support better decision-making, help users manage battery life more efficiently, and promote awareness of digital usage habits.
+The smartphone battery usage dashboard is a clear example of data visualization used in everyday technology. By presenting battery consumption through a time-based graph and app-level percentage comparisons, it simplifies complex system data and makes it easy for users to understand how their device battery is being used. 
+
+The visualization reveals that messaging and media applications such as WhatsApp and YouTube contribute the most to battery consumption, while system-level processes like System UI consume minimal power. Overall, this dashboard demonstrates how visualization techniques help users quickly interpret data, monitor device performance, and make informed decisions about their digital usage habits.
