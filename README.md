@@ -36,7 +36,22 @@ The smartphone battery usage visualization helps solve several practical problem
 - Assists in detecting unusual battery consumption caused by malfunctioning apps  
 - Helps users make informed decisions about enabling power-saving features or limiting background activity  
 - Provides insight into which apps occupy most of the user’s time, encouraging better digital habits  
-- Helps users decide whether they need to reduce screen time or take a break from certain apps  
+- Helps users decide whether they need to reduce screen time or take a break from certain apps
+
+---
+
+## Key Insights from the Battery Dashboard
+
+- **Highest battery consumption:** WhatsApp (**31.69%**)
+- **Second highest battery consumption:** YouTube (**23.59%**)
+- **Moderate battery consumption:** Gmail (**10.05%**)
+- **Lower battery consumption:** Instagram (**5.77%**)
+- **Least battery consumption among the visible apps:** Instagram (**5.77%**)
+
+## Insight
+The dashboard shows that **WhatsApp consumed the most battery**, which suggests frequent usage or background activity. In contrast, **Instagram consumed the least battery among the listed major apps**, indicating relatively lower usage compared to the others shown in the screenshot.
+---
+
 
 ## Conclusion
 
